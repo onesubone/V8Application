@@ -8,6 +8,7 @@
 
 #include "include/libplatform/libplatform.h"
 #include "include/v8.h"
+#include "process.cpp"
 using namespace v8;
 
 
